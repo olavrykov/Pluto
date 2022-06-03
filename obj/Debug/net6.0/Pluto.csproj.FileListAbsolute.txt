@@ -1,0 +1,15 @@
+D:\dvl\VS\Pluto\Pluto\bin\Debug\net6.0\Pluto.exe
+D:\dvl\VS\Pluto\Pluto\bin\Debug\net6.0\Pluto.deps.json
+D:\dvl\VS\Pluto\Pluto\bin\Debug\net6.0\Pluto.runtimeconfig.json
+D:\dvl\VS\Pluto\Pluto\bin\Debug\net6.0\Pluto.dll
+D:\dvl\VS\Pluto\Pluto\bin\Debug\net6.0\Pluto.pdb
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.csproj.AssemblyReference.cache
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.AssemblyInfoInputs.cache
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.AssemblyInfo.cs
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.csproj.CoreCompileInputs.cache
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.dll
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\refint\Pluto.dll
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.pdb
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\Pluto.genruntimeconfig.cache
+D:\dvl\VS\Pluto\Pluto\obj\Debug\net6.0\ref\Pluto.dll
